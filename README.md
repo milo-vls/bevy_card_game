@@ -1,4 +1,4 @@
-rust test for later
+rust test for later. not working on it at all.
 
 
 team fight manager x tcg x city sim.
